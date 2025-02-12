@@ -31,7 +31,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kanishk-kumar-singh-171a0828a/) 
 [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram)](https://www.instagram.com/_kanishk_singh_737_?igsh=Y2E0cjMxYml6dTli) 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=web)]([https://kanishkkumarsingh2004.github.io/Profile/](https://kanishkkumarsingh2004.github.io/kanishkkumarsingh2004/))
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=web)]([https://kanishkkumarsingh2004.github.io/kanishkkumarsingh2004/](https://kanishkkumarsingh2004.github.io/kanishkkumarsingh2004/))
 
 ---
 
