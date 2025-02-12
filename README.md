@@ -35,12 +35,4 @@
 
 ---
 
-### 📊 GitHub Stats:
-
-![Kanishk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KanishkKumarSingh&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KanishkKumarSingh&layout=compact&theme=tokyonight)
-
----
-
 ⭐️ *Feel free to contribute, star, and fork my repositories!* 😃
